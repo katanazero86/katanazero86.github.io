@@ -1,5 +1,11 @@
 # rebch86.github.io
 
+```
+2019.01.13 신규 github pages 생성.
+2019.01.13 github pages 에 vue 초기앱 배포. 
+https://rebch86.github.io/vue-blog
+```
+
 ## 주의.
 
 ```
