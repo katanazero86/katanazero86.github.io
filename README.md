@@ -12,36 +12,4 @@ A 라는 github 아이디로 '최초' 글로벌 유저 등록을 했고,
 제어판\사용자 계정\자격 증명 관리자\일반 자격 증명 편집
 
 가서, 사용자 이름과 암호를 지정하면 잘 된다.
-
 ```
-
-
-# vue-blog
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
