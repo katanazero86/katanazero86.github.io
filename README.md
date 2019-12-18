@@ -1,6 +1,6 @@
 # rebch86.github.io
 
-my site : https://rebch86.github.io/vue-blog
+my site : https://katanazero86.github.io/vue-blog
 
 ```
 2019.01.13 신규 github pages 생성.
